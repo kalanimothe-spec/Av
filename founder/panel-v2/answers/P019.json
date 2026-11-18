@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "J'enverrai sans doute la question gratuite, celle de la cession de parts qui m'est restée en travers, mais je ne paierai rien tant que je n'aurai pas vu la fiche. On gère le courant en interne depuis des années, et je ne vais pas mettre mon nom de cabinet derrière un avocat qui vient de prêter serment sans l'avoir jugé sur pièces.",
+  "reason_code": "trust",
+  "objection": "Il vient de prêter serment et il est inscrit à Bordeaux : quelle expérience réelle a-t-il du droit applicable en Polynésie, et est-ce que ma réponse sera plus fiable que ce que mon équipe trouve elle-même ? Si la fiche est fausse, c'est moi qui perds le client.",
+  "would_change_my_mind": "Une première fiche gratuite précise sur ma cession de parts, avec le bon texte polynésien et des réserves claires, ou un confrère expert-comptable de Papeete qui me dit qu'il l'utilise et que c'est solide.",
+  "price_too_cheap": 5000,
+  "price_cheap": 12000,
+  "price_expensive": 25000,
+  "price_too_expensive": 40000
+}

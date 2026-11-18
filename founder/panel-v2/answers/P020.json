@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Bon, ce n'est pas l'abonnement fixe que je redoutais, et c'est refacturable, c'est déjà mieux. Mais j'ai mon avocat à Papeete que j'appelle quand il le faut, et en pleine période de bilans je n'ai pas le temps de tester un nouveau circuit ; au mieux j'enverrai la question gratuite plus tard.",
+  "objection": "Un avocat inscrit à Bordeaux, à distance, pour du droit polynésien : je ne sais pas s'il connaît vraiment les spécificités locales, et mes clients TPE vont tiquer à 18 000 XPF pour une fiche écrite alors que mon avocat habituel me répond souvent au téléphone.",
+  "would_change_my_mind": "Une première fiche gratuite vraiment solide sur un cas réel d'un de mes clients, avec le texte polynésien exact, et des clients qui acceptent la refacturation sans discuter.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 18000,
+  "price_too_expensive": 30000
+}

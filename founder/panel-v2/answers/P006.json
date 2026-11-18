@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Sans abonnement, ça lève mon blocage sur la charge fixe, et j'enverrais sans doute la question de cession de parts en question offerte. Mais pour payer ensuite, j'ai déjà mon avocat de Papeete que j'appelle quand j'en ai besoin, et rien ne me pousse à changer ce mois-ci.",
+  "objection": "Un avocat inscrit au barreau de Bordeaux, est-ce qu'il connaît vraiment le droit polynésien et le terrain local aussi bien que mon avocat de Papeete, que je peux appeler à n'importe quelle heure ?",
+  "would_change_my_mind": "Une première fiche offerte vraiment solide sur ma cession de parts, avec les textes polynésiens exacts, livrée dans les 2 jours et que mon client accepte de payer quand je la lui refacture.",
+  "price_too_cheap": 5000,
+  "price_cheap": 12000,
+  "price_expensive": 22000,
+  "price_too_expensive": 35000
+}

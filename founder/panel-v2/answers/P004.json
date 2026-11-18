@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quand un client a une question juridique, j'appelle un des avocats de Papeete que je connais, ou je l'envoie directement chez eux. J'ai peut-être une ou deux vraies questions par mois, et je ne vois pas pourquoi je passerais par un avocat de Bordeaux que je ne connais pas.",
+  "objection": "Je n'ai pas assez de questions pour que ça vaille la peine, et refacturer 18 000 XPF à un petit client pour une fiche de deux pages, ce n'est pas gagné : il va me demander pourquoi je ne lui ai pas répondu moi-même. Et un avocat inscrit à Bordeaux, est-ce qu'il connaît vraiment la pratique locale ?",
+  "would_change_my_mind": "Que la première question gratuite me donne une réponse nettement plus rapide et plus claire que ce que j'obtiens de mes contacts à Papeete, sur un vrai dossier client. Là, je reprendrais une question à l'unité de temps en temps.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 18000,
+  "price_too_expensive": 30000
+}

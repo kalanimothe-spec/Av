@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "En pleine période de bilans, je n'ai pas le temps de mettre en place un nouveau circuit ni de vendre ça à mes clients ; au mieux j'enverrai la question offerte après la saison pour voir, mais je ne paierai rien ce mois-ci.",
+  "objection": "Un avocat installé à Bordeaux maîtrise-t-il vraiment le droit applicable en Polynésie, et si sa fiche est fausse, c'est quand même moi que mon client viendra voir : l'assurance de l'avocat me couvre-t-elle, moi, quand je transmets sa réponse ?",
+  "would_change_my_mind": "Une première fiche gratuite de qualité sur un vrai dossier polynésien, avec un écrit clair que la responsabilité est celle de l'avocat envers le client final, et que le cabinet n'est qu'intermédiaire.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 20000,
+  "price_too_expensive": 30000
+}

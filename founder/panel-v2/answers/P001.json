@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quand un client a une question juridique, je l'envoie chez un des deux ou trois avocats de Papeete que je connais et je ne m'en occupe plus. Je n'ai aucune envie de me mettre entre le client et un avocat, ni de gérer une facture à refacturer.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif : un créneau d'appel d'une heure par semaine à 7 h, ça ne remplace pas un confrère qu'on peut appeler ou croiser à Papeete.",
+  "would_change_my_mind": "Qu'un confrère expert-comptable de Tahiti en qui j'ai confiance me montre des fiches qu'il a reçues et me dise que ça lui a fait gagner du temps sans complication avec ses clients.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 20000,
+  "price_too_expensive": 30000
+}

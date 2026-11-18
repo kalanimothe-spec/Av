@@ -1,6 +1,6 @@
-MOTHE AVOCAT, avocat en droit des affaires (barreau de Bordeaux, originaire de Polynésie), propose aux cabinets d'expertise comptable de Tahiti un abonnement d'appui juridique pour les questions courantes de leurs clients : fonctionnement des sociétés (SAS, SARL, SCI), lecture ciblée de clauses, relations commerciales, premières orientations sur une opération.
-Le cabinet envoie ses questions par e-mail et reçoit une réponse écrite sous 2 jours ouvrés : la règle, son application, les réserves, la démarche recommandée.
-Sont exclus : rédaction d'actes et de contrats, opérations sur sociétés, audits, contentieux, recherches longues (proposés à part sur devis).
-Prix : 60 000 XPF HT par mois et par cabinet, payable en début de mois, sans durée minimale, résiliable avec un mois de préavis. Usage raisonnable.
-Interlocuteur unique, relation suivie, bilan après trois mois. Prix garanti deux mois au lancement.
-Tous les montants sont en francs CFP (XPF), hors taxes, par mois.
+MOTHE AVOCAT, avocat en droit des affaires (barreau de Bordeaux, originaire de Polynésie), répond par écrit aux questions juridiques courantes des clients des cabinets d'expertise comptable de Tahiti : fonctionnement des sociétés (SAS, SARL, SCI), lecture ciblée d'une clause, relations commerciales, première orientation sur une opération (par exemple une cession de parts).
+Vous payez à la question, sans abonnement : 18 000 XPF HT par question, ou un carnet de 5 questions à 80 000 XPF HT, valable 12 mois. Chaque réponse est facturée au cabinet et peut être refacturée au client concerné.
+Chaque réponse est une fiche de 1 à 2 pages sous 2 jours ouvrés : la règle, le texte applicable en Polynésie, son application, les réserves, la démarche recommandée. Les précisions sur la même question sont incluses pendant 30 jours.
+La première question de chaque cabinet est offerte, pour juger sur pièces. Un créneau d'appel est réservé chaque semaine de 7 h à 8 h, heure de Tahiti.
+Les consultations sont couvertes par l'assurance de responsabilité civile professionnelle de l'avocat. Rien n'est facturé hors carnet sans devis accepté ; la rédaction d'actes, les opérations complètes et le contentieux sont proposés à part.
+Tous les montants sont en francs CFP (XPF), hors taxes, par question.

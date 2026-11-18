@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ne connais pas ce confrère et personne ne me l'a recommandé ; pour ces questions j'appelle déjà deux avocats de Papeete que je connais et que je vois en face. Au mieux j'enverrai la question gratuite un jour pour voir, mais je ne paierai rien ce mois-ci.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage et un seul créneau d'appel par semaine, ce n'est pas assez réactif quand un client m'appelle paniqué, et je ne sais pas ce qu'il vaut vraiment sur le droit polynésien.",
+  "would_change_my_mind": "Qu'un confrère expert-comptable de Tahiti en qui j'ai confiance me dise qu'il l'utilise et que ses fiches sont justes sur le droit local.",
+  "price_too_cheap": 8000,
+  "price_cheap": 12000,
+  "price_expensive": 25000,
+  "price_too_expensive": 40000
+}

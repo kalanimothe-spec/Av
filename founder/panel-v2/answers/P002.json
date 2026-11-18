@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Pas d'abonnement, refacturable au client, et j'ai justement une cession de parts sur le bureau que je n'ai pas su trancher : j'envoie la question gratuite, et si la fiche tient la route je paie la suivante et je la refacture. Le carnet de 5, je verrai plus tard.",
+  "objection": "Un avocat inscrit à Bordeaux connaît-il vraiment le droit applicable en Polynésie, et mon client acceptera-t-il qu'on lui refacture 18 000 XPF pour une fiche de deux pages ?",
+  "would_change_my_mind": "",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 25000,
+  "price_too_expensive": 40000
+}

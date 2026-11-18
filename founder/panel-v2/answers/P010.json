@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quand un client pose une question juridique, je le renvoie vers son avocat et je ne m'en occupe plus. En pleine période de bilans, je n'ai ni le temps ni l'envie de devenir l'intermédiaire qui commande, facture et refacture des fiches juridiques.",
+  "objection": "Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une simple question. Payer 18 000 XPF pour une fiche sous 2 jours, puis devoir la refacturer au client, c'est du travail et un risque en plus pour mon cabinet, avec un avocat basé à Bordeaux que je ne connais pas.",
+  "would_change_my_mind": "Qu'un client me reproche concrètement de l'avoir laissé seul face à une question juridique, ou que mon avocat habituel commence à facturer chaque question ; je testerais alors la question offerte, mais pas avant la fin des bilans.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 18000,
+  "price_too_expensive": 30000
+}

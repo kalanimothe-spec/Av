@@ -1,0 +1,89 @@
+{
+ "n": 20,
+ "seed": 219434,
+ "customer": {
+  "business": "MOTHE AVOCAT : abonnement d'appui juridique externalisé pour cabinets d'expertise comptable à Tahiti (avocat établi à Bordeaux, originaire de Polynésie)",
+  "target": "Associés ou dirigeants de cabinets d'expertise comptable indépendants, petits ou intermédiaires, à Tahiti, dont les clients sont des entrepreneurs individuels, TPE, PME, sociétés familiales et professions libérales",
+  "where": "Papeete et agglomération, Tahiti",
+  "age": [
+   32,
+   62
+  ],
+  "segments": [
+   {
+    "name": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+    "share": 0.4,
+    "income": [
+     6000000,
+     12000000
+    ]
+   },
+   {
+    "name": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+    "share": 0.4,
+    "income": [
+     9000000,
+     18000000
+    ]
+   },
+   {
+    "name": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+    "share": 0.2,
+    "income": [
+     14000000,
+     25000000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "A déjà un avocat habituel",
+    "share": 0.25,
+    "how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement."
+   },
+   {
+    "name": "Fait le juridique en interne",
+    "share": 0.2,
+    "how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients."
+   },
+   {
+    "name": "Renvoie le client ailleurs",
+    "share": 0.15,
+    "how": "Dit au client d'aller voir un avocat et ne suit pas la suite."
+   },
+   {
+    "name": "Veut développer le conseil",
+    "share": 0.15,
+    "how": "Cherche à mieux accompagner ses clients et à se différencier par le conseil."
+   },
+   {
+    "name": "Surveille les charges fixes",
+    "share": 0.15,
+    "how": "Refuse tout nouvel abonnement qui ne se refacture pas ou ne fait pas gagner un temps mesurable."
+   },
+   {
+    "name": "Méfiant envers les nouveaux venus",
+    "share": 0.1,
+    "how": "Ne travaille qu'avec des gens dont il a vu le travail ou qu'on lui a recommandés."
+   }
+  ],
+  "objections": [
+   "Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une simple question",
+   "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+   "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif",
+   "Il vient de prêter serment : quelle expérience a-t-il réellement ?",
+   "Je n'ai pas assez de questions juridiques par mois pour justifier un abonnement",
+   "Le droit applicable en Polynésie est spécifique : connaît-il vraiment les textes locaux ?",
+   "Qui est responsable si la réponse est fausse et que je l'ai transmise à mon client ?"
+  ],
+  "habits": [
+   "tu es en pleine période de bilans et tes équipes sont saturées",
+   "un client t'a posé la semaine dernière une question sur une cession de parts que tu n'as pas su trancher",
+   "tu connais personnellement deux ou trois avocats de Papeete",
+   "tu reçois souvent des sollicitations commerciales de prestataires métropolitains",
+   "tes clients se plaignent du coût des avocats"
+  ],
+  "currency": "XPF"
+ },
+ "pitch": "MOTHE AVOCAT, avocat en droit des affaires (barreau de Bordeaux, originaire de Polynésie), répond par écrit aux questions juridiques courantes des clients des cabinets d'expertise comptable de Tahiti : fonctionnement des sociétés (SAS, SARL, SCI), lecture ciblée d'une clause, relations commerciales, première orientation sur une opération (par exemple une cession de parts).\nVous payez à la question, sans abonnement : 18 000 XPF HT par question, ou un carnet de 5 questions à 80 000 XPF HT, valable 12 mois. Chaque réponse est facturée au cabinet et peut être refacturée au client concerné.\nChaque réponse est une fiche de 1 à 2 pages sous 2 jours ouvrés : la règle, le texte applicable en Polynésie, son application, les réserves, la démarche recommandée. Les précisions sur la même question sont incluses pendant 30 jours.\nLa première question de chaque cabinet est offerte, pour juger sur pièces. Un créneau d'appel est réservé chaque semaine de 7 h à 8 h, heure de Tahiti.\nLes consultations sont couvertes par l'assurance de responsabilité civile professionnelle de l'avocat. Rien n'est facturé hors carnet sans devis accepté ; la rédaction d'actes, les opérations complètes et le contentieux sont proposés à part.\nTous les montants sont en francs CFP (XPF), hors taxes, par question."
+}

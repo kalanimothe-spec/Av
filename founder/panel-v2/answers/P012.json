@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà mon avocat à Papeete, je l'appelle quand il le faut et il connaît mes clients. Je testerai peut-être la question offerte, mais je ne vois pas pourquoi je paierais un avocat de Bordeaux à la place de quelqu'un que je peux voir en face.",
+  "objection": "Il est inscrit au barreau de Bordeaux : le droit polynésien est spécifique, et je ne suis pas sûr qu'il maîtrise vraiment les textes locaux et la pratique d'ici mieux que mon avocat de Papeete.",
+  "would_change_my_mind": "Une première réponse gratuite qui cite précisément le texte polynésien applicable et qui tient la route face à l'avis de mon avocat habituel, plus rapide et moins chère que lui.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 20000,
+  "price_too_expensive": 30000
+}

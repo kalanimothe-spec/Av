@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Sans abonnement, ça lève mon blocage sur la charge fixe, et je testerais sans doute la question offerte avec ma cession de parts en suspens. Mais payer 18 000 XPF ce mois-ci, non : mon réflexe reste de dire au client d'aller voir un avocat, et rien ne me garantit qu'il accepte qu'on lui refacture la fiche.",
+  "objection": "Est-ce que mon client acceptera de payer 18 000 XPF pour une fiche de deux pages qui finit souvent par « voyez un avocat pour l'acte » ? Et un avocat inscrit à Bordeaux, est-il vraiment à jour sur le droit polynésien ?",
+  "would_change_my_mind": "Que la réponse gratuite sur ma cession de parts soit assez précise et adaptée au droit applicable en Polynésie pour que le client voie la valeur et accepte de payer la suivante.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 20000,
+  "price_too_expensive": 30000
+}

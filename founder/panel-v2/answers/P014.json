@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Mon cabinet traite déjà en interne le secrétariat juridique et les questions courantes de nos clients, donc je n'ai pas de besoin régulier à confier dehors. Je testerais peut-être la question offerte sur un dossier un peu pointu, mais je ne me vois pas payer une question ce mois-ci.",
+  "objection": "On sait déjà répondre à la plupart de ces questions nous-mêmes, et mes clients râlent déjà contre le coût des avocats : leur refacturer 18 000 XPF pour une fiche, ce n'est pas évident à faire passer.",
+  "would_change_my_mind": "Que la question gratuite me prouve, sur un vrai dossier délicat (cession de parts par exemple), une réponse en droit polynésien nettement plus sûre que ce qu'on produit en interne, et qu'un client accepte la refacturation sans discuter.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 20000,
+  "price_too_expensive": 35000
+}

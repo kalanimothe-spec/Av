@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Sans abonnement et refacturable, c'est déjà bien mieux qu'une charge fixe, et j'enverrai sans doute la question offerte pour voir. Mais les questions courantes, on y répond nous-mêmes au cabinet depuis des années ; je ne vais pas payer 18 000 XPF pour ce que je sais déjà faire, et je ne vois pas de question ce mois-ci qui le justifie.",
+  "objection": "Mes clients se plaignent déjà du coût des avocats : leur refacturer 18 000 XPF pour une fiche de deux pages sur une question que je traite d'habitude moi-même, ils vont tiquer. Et un avocat inscrit à Bordeaux, je ne sais pas encore s'il maîtrise vraiment les spécificités du droit polynésien.",
+  "would_change_my_mind": "Que la question offerte porte sur un vrai cas épineux (une cession de parts, une clause litigieuse) et que la réponse soit nettement meilleure que ce que j'aurais fait, avec le texte polynésien exact : là je prendrais un carnet pour les dossiers qui dépassent mon périmètre.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 18000,
+  "price_too_expensive": 30000
+}

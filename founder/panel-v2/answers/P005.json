@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Sans abonnement et refacturable, ça coche mes critères sur le papier, mais en pleine période de bilans je n'ai ni le temps ni assez de questions juridiques pour payer quoi que ce soit ce mois-ci. Au mieux je garde le contact et j'utiliserai la question offerte le jour où un client me pose une vraie colle.",
+  "objection": "Refacturer 18 000 XPF à une TPE pour une fiche de deux pages, c'est une discussion que je n'ai pas envie d'avoir avec mes clients ; et un avocat inscrit à Bordeaux, je veux voir s'il maîtrise vraiment le droit applicable en Polynésie avant de mettre mon nom derrière.",
+  "would_change_my_mind": "Une première réponse offerte, sur une vraie question d'un de mes clients, rendue en 2 jours, juste et directement transmissible au client sans que j'aie à la retravailler.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 20000,
+  "price_too_expensive": 30000
+}

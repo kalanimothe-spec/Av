@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai mon avocat à Papeete, je l'appelle et il me répond souvent gratuitement sur une question simple ; payer 18 000 XPF pour une fiche sous 2 jours, ce n'est pas mieux que ce que j'ai déjà. Je testerais peut-être la question offerte, mais je ne vois pas pourquoi je paierais ensuite.",
+  "objection": "Un avocat inscrit à Bordeaux, que je ne connais pas, pour du droit polynésien : mon avocat local connaît les textes, les greffes et les gens d'ici, et il ne me facture pas un coup de fil. Et refacturer 18 000 XPF à des clients qui se plaignent déjà du coût des avocats, ça ne passera pas.",
+  "would_change_my_mind": "Que mon avocat habituel commence à facturer chaque question ou devienne injoignable, ou qu'une première fiche gratuite soit nettement plus précise et utilisable devant le client que ce qu'il me dit au téléphone.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 18000,
+  "price_too_expensive": 30000
+}

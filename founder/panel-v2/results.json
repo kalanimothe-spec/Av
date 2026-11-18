@@ -1,0 +1,169 @@
+{
+ "business": "MOTHE AVOCAT : abonnement d'appui juridique externalisé pour cabinets d'expertise comptable à Tahiti (avocat établi à Bordeaux, originaire de Polynésie)",
+ "seed": 219434,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 1,
+ "passes": 19,
+ "buy_rate": 0.05,
+ "by_segment": [
+  [
+   "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+   8,
+   0.125
+  ],
+  [
+   "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+   4,
+   0.0
+  ],
+  [
+   "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+   8,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Surveille les charges fixes",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Renvoie le client ailleurs",
+   3,
+   0.0
+  ],
+  [
+   "Veut développer le conseil",
+   3,
+   0.0
+  ],
+  [
+   "A déjà un avocat habituel",
+   5,
+   0.0
+  ],
+  [
+   "Méfiant envers les nouveaux venus",
+   2,
+   0.0
+  ],
+  [
+   "Fait le juridique en interne",
+   4,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$12,785,000 and up",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "under $10,827,000",
+   6,
+   0.0
+  ],
+  [
+   "$10,827,000 to $12,785,000",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   11,
+   [
+    "Quand un client a une question juridique, je l'envoie chez un des deux ou trois avocats de Papeete que je connais et je ne m'en occupe plus. Je n'ai aucune envie de me mettre entre le client et un avocat, ni de gérer une facture à refacturer.",
+    "Quand un client a une question juridique, j'appelle un des avocats de Papeete que je connais, ou je l'envoie directement chez eux. J'ai peut-être une ou deux vraies questions par mois, et je ne vois pas pourquoi je passerais par un avocat de Bordeaux que je ne connais pas."
+   ],
+   [
+    "P001",
+    "P004"
+   ]
+  ],
+  [
+   "need",
+   3,
+   [
+    "Sans abonnement et refacturable, ça coche mes critères sur le papier, mais en pleine période de bilans je n'ai ni le temps ni assez de questions juridiques pour payer quoi que ce soit ce mois-ci. Au mieux je garde le contact et j'utiliserai la question offerte le jour où un client me pose une vraie colle.",
+    "Mon cabinet traite lui-même les questions courantes des clients, SARL, SCI, cessions de parts, c'est notre quotidien. Et en pleine période de bilans, je n'ai ni le temps de rédiger une question pour un avocat ni assez de cas pointus pour en payer une."
+   ],
+   [
+    "P005",
+    "P011"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "Je ne connais pas ce confrère et personne ne me l'a recommandé ; pour ces questions j'appelle déjà deux avocats de Papeete que je connais et que je vois en face. Au mieux j'enverrai la question gratuite un jour pour voir, mais je ne paierai rien ce mois-ci.",
+    "Je ne connais pas ce confrère, personne de mon réseau ne m'en a parlé, et un avocat inscrit à Bordeaux qui répond par écrit depuis la métropole, je ne vais pas le mettre entre mes clients et moi sur une simple annonce. En plus on est en plein bilans, je n'ai ni le temps ni l'envie de tester un nouveau prestataire ce mois-ci."
+   ],
+   [
+    "P008",
+    "P009"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Je testerais sans doute la question offerte, mais je ne paierais rien le premier mois : quand un client m'appelle pour une cession de parts ou une clause, il veut une réponse dans la journée, pas une fiche à J+2 depuis Bordeaux avec un seul créneau d'une heure par semaine pour se parler."
+   ],
+   [
+    "P003"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "En pleine période de bilans, je n'ai pas le temps de mettre en place un nouveau circuit ni de vendre ça à mes clients ; au mieux j'enverrai la question offerte après la saison pour voir, mais je ne paierai rien ce mois-ci."
+   ],
+   [
+    "P018"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   1,
+   [
+    "Pas d'abonnement, refacturable au client, et j'ai justement une cession de parts sur le bureau que je n'ai pas su trancher : j'envoie la question gratuite, et si la fiche tient la route je paie la suivante et je la refacture. Le carnet de 5, je verrai plus tard."
+   ],
+   [
+    "P002"
+   ]
+  ]
+ ],
+ "flip": [
+  "Qu'un confrère expert-comptable de Tahiti en qui j'ai confiance me montre des fiches qu'il a reçues et me dise que ça lui a fait gagner du temps sans complication avec ses clients.",
+  "Que la question offerte revienne en moins de 48 heures avec une fiche vraiment solide sur le texte applicable en Polynésie, et qu'il y ait plus d'un créneau d'appel par semaine pour les cas urgents.",
+  "Que la première question gratuite me donne une réponse nettement plus rapide et plus claire que ce que j'obtiens de mes contacts à Papeete, sur un vrai dossier client. Là, je reprendrais une question à l'unité de temps en temps.",
+  "Une première réponse offerte, sur une vraie question d'un de mes clients, rendue en 2 jours, juste et directement transmissible au client sans que j'aie à la retravailler.",
+  "Une première fiche offerte vraiment solide sur ma cession de parts, avec les textes polynésiens exacts, livrée dans les 2 jours et que mon client accepte de payer quand je la lui refacture.",
+  "Que la fiche me permette de vendre une vraie mission de conseil à mes clients, par exemple des fiches modèles rédigées à mon nom que je peux réutiliser, avec un prix qui laisse une marge au cabinet.",
+  "Qu'un confrère expert-comptable de Tahiti en qui j'ai confiance me dise qu'il l'utilise et que ses fiches sont justes sur le droit local.",
+  "Qu'un confrère expert-comptable de Tahiti que je respecte me dise qu'il l'utilise et que ses réponses tiennent la route, avec un exemple de fiche sur un sujet que je connais bien pour juger moi-même.",
+  "Qu'un client me reproche concrètement de l'avoir laissé seul face à une question juridique, ou que mon avocat habituel commence à facturer chaque question ; je testerais alors la question offerte, mais pas avant la fin des bilans.",
+  "Un vrai dossier épineux sur un point de droit polynésien que nous ne maîtrisons pas, avec un client qui accepte la refacturation : là j'utiliserais la question offerte, puis je paierais à l'unité.",
+  "Une première réponse gratuite qui cite précisément le texte polynésien applicable et qui tient la route face à l'avis de mon avocat habituel, plus rapide et moins chère que lui.",
+  "Que la question offerte porte sur un vrai cas épineux (une cession de parts, une clause litigieuse) et que la réponse soit nettement meilleure que ce que j'aurais fait, avec le texte polynésien exact : là je prendrais un carnet pour les dossiers qui dépassent mon périmètre.",
+  "Que la question gratuite me prouve, sur un vrai dossier délicat (cession de parts par exemple), une réponse en droit polynésien nettement plus sûre que ce qu'on produit en interne, et qu'un client accepte la refacturation sans discuter.",
+  "Une première réponse gratuite vraiment solide sur un point de droit polynésien, avec l'attestation d'assurance RC pro qui couvre explicitement les consultations données en Polynésie, et un client qui accepte d'avance la refacturation.",
+  "Que la réponse gratuite sur ma cession de parts soit assez précise et adaptée au droit applicable en Polynésie pour que le client voie la valeur et accepte de payer la suivante.",
+  "Que mon avocat habituel commence à facturer chaque question ou devienne injoignable, ou qu'une première fiche gratuite soit nettement plus précise et utilisable devant le client que ce qu'il me dit au téléphone.",
+  "Une première fiche gratuite de qualité sur un vrai dossier polynésien, avec un écrit clair que la responsabilité est celle de l'avocat envers le client final, et que le cabinet n'est qu'intermédiaire.",
+  "Une première fiche gratuite précise sur ma cession de parts, avec le bon texte polynésien et des réserves claires, ou un confrère expert-comptable de Papeete qui me dit qu'il l'utilise et que c'est solide.",
+  "Une première fiche gratuite vraiment solide sur un cas réel d'un de mes clients, avec le texte polynésien exact, et des clients qui acceptent la refacturation sans discuter."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

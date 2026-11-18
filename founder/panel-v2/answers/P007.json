@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je prendrais peut-être la question offerte pour voir, mais je ne paierais pas : quand un client a une question, j'appelle mon avocat habituel à Papeete et il me répond souvent sans rien facturer. Payer 18 000 XPF à un avocat de Bordeaux pour une fiche écrite, ça ne me paraît pas nécessaire aujourd'hui.",
+  "objection": "Mes clients se plaignent déjà du coût des avocats ; leur refacturer 18 000 XPF pour une question que mon avocat local traite gratuitement au téléphone sera dur à justifier, et un avocat installé à Bordeaux, avec un seul créneau d'appel à 7 h, me semble loin du terrain polynésien.",
+  "would_change_my_mind": "Que la fiche me permette de vendre une vraie mission de conseil à mes clients, par exemple des fiches modèles rédigées à mon nom que je peux réutiliser, avec un prix qui laisse une marge au cabinet.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 18000,
+  "price_too_expensive": 30000
+}

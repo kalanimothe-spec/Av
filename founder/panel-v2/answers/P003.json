@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Je testerais sans doute la question offerte, mais je ne paierais rien le premier mois : quand un client m'appelle pour une cession de parts ou une clause, il veut une réponse dans la journée, pas une fiche à J+2 depuis Bordeaux avec un seul créneau d'une heure par semaine pour se parler.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif pour mes clients, et je ne sais pas s'il maîtrise vraiment les spécificités du droit polynésien au quotidien ni s'il connaît le terrain local.",
+  "would_change_my_mind": "Que la question offerte revienne en moins de 48 heures avec une fiche vraiment solide sur le texte applicable en Polynésie, et qu'il y ait plus d'un créneau d'appel par semaine pour les cas urgents.",
+  "price_too_cheap": 5000,
+  "price_cheap": 10000,
+  "price_expensive": 25000,
+  "price_too_expensive": 40000
+}
