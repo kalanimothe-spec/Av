@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Noor",
+  "age": 60,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 12785000,
+  "behaviour": "Renvoie le client ailleurs",
+  "behaviour_how": "Dit au client d'aller voir un avocat et ne suit pas la suite.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif",
+  "habit": "tu connais personnellement deux ou trois avocats de Papeete"
+ },
+ {
+  "id": "P002",
+  "name": "Owen",
+  "age": 60,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 17485000,
+  "behaviour": "Surveille les charges fixes",
+  "behaviour_how": "Refuse tout nouvel abonnement qui ne se refacture pas ou ne fait pas gagner un temps mesurable.",
+  "objection": "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+  "habit": "un client t'a posé la semaine dernière une question sur une cession de parts que tu n'as pas su trancher"
+ },
+ {
+  "id": "P003",
+  "name": "Liam",
+  "age": 44,
+  "segment": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+  "income": 19941000,
+  "behaviour": "Veut développer le conseil",
+  "behaviour_how": "Cherche à mieux accompagner ses clients et à se différencier par le conseil.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P004",
+  "name": "Sara",
+  "age": 49,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 8530000,
+  "behaviour": "Surveille les charges fixes",
+  "behaviour_how": "Refuse tout nouvel abonnement qui ne se refacture pas ou ne fait pas gagner un temps mesurable.",
+  "objection": "Je n'ai pas assez de questions juridiques par mois pour justifier un abonnement",
+  "habit": "tu connais personnellement deux ou trois avocats de Papeete"
+ },
+ {
+  "id": "P005",
+  "name": "Andre",
+  "age": 54,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 10891000,
+  "behaviour": "Surveille les charges fixes",
+  "behaviour_how": "Refuse tout nouvel abonnement qui ne se refacture pas ou ne fait pas gagner un temps mesurable.",
+  "objection": "Je n'ai pas assez de questions juridiques par mois pour justifier un abonnement",
+  "habit": "tu es en pleine période de bilans et tes équipes sont saturées"
+ },
+ {
+  "id": "P006",
+  "name": "Noah",
+  "age": 39,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 10858000,
+  "behaviour": "A déjà un avocat habituel",
+  "behaviour_how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement.",
+  "objection": "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+  "habit": "un client t'a posé la semaine dernière une question sur une cession de parts que tu n'as pas su trancher"
+ },
+ {
+  "id": "P007",
+  "name": "Alma",
+  "age": 57,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 6335000,
+  "behaviour": "Veut développer le conseil",
+  "behaviour_how": "Cherche à mieux accompagner ses clients et à se différencier par le conseil.",
+  "objection": "Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une simple question",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P008",
+  "name": "Luis",
+  "age": 44,
+  "segment": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+  "income": 24718000,
+  "behaviour": "Méfiant envers les nouveaux venus",
+  "behaviour_how": "Ne travaille qu'avec des gens dont il a vu le travail ou qu'on lui a recommandés.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif",
+  "habit": "tu connais personnellement deux ou trois avocats de Papeete"
+ },
+ {
+  "id": "P009",
+  "name": "Emil",
+  "age": 51,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 10645000,
+  "behaviour": "Méfiant envers les nouveaux venus",
+  "behaviour_how": "Ne travaille qu'avec des gens dont il a vu le travail ou qu'on lui a recommandés.",
+  "objection": "Qui est responsable si la réponse est fausse et que je l'ai transmise à mon client ?",
+  "habit": "tu es en pleine période de bilans et tes équipes sont saturées"
+ },
+ {
+  "id": "P010",
+  "name": "Leah",
+  "age": 39,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 13637000,
+  "behaviour": "Renvoie le client ailleurs",
+  "behaviour_how": "Dit au client d'aller voir un avocat et ne suit pas la suite.",
+  "objection": "Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une simple question",
+  "habit": "tu es en pleine période de bilans et tes équipes sont saturées"
+ },
+ {
+  "id": "P011",
+  "name": "Farah",
+  "age": 47,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 11932000,
+  "behaviour": "Fait le juridique en interne",
+  "behaviour_how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients.",
+  "objection": "Je n'ai pas assez de questions juridiques par mois pour justifier un abonnement",
+  "habit": "tu es en pleine période de bilans et tes équipes sont saturées"
+ },
+ {
+  "id": "P012",
+  "name": "Tariq",
+  "age": 56,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 11253000,
+  "behaviour": "A déjà un avocat habituel",
+  "behaviour_how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement.",
+  "objection": "Le droit applicable en Polynésie est spécifique : connaît-il vraiment les textes locaux ?",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P013",
+  "name": "Theo",
+  "age": 39,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 8224000,
+  "behaviour": "Fait le juridique en interne",
+  "behaviour_how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients.",
+  "objection": "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P014",
+  "name": "Grace",
+  "age": 42,
+  "segment": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+  "income": 22701000,
+  "behaviour": "Fait le juridique en interne",
+  "behaviour_how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients.",
+  "objection": "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P015",
+  "name": "Rhys",
+  "age": 39,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 11747000,
+  "behaviour": "A déjà un avocat habituel",
+  "behaviour_how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement.",
+  "objection": "Qui est responsable si la réponse est fausse et que je l'ai transmise à mon client ?",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P016",
+  "name": "Pablo",
+  "age": 37,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 10827000,
+  "behaviour": "Renvoie le client ailleurs",
+  "behaviour_how": "Dit au client d'aller voir un avocat et ne suit pas la suite.",
+  "objection": "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+  "habit": "un client t'a posé la semaine dernière une question sur une cession de parts que tu n'as pas su trancher"
+ },
+ {
+  "id": "P017",
+  "name": "Bilal",
+  "age": 45,
+  "segment": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+  "income": 18238000,
+  "behaviour": "A déjà un avocat habituel",
+  "behaviour_how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement.",
+  "objection": "Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une simple question",
+  "habit": "tes clients se plaignent du coût des avocats"
+ },
+ {
+  "id": "P018",
+  "name": "Priya",
+  "age": 56,
+  "segment": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+  "income": 7754000,
+  "behaviour": "Veut développer le conseil",
+  "behaviour_how": "Cherche à mieux accompagner ses clients et à se différencier par le conseil.",
+  "objection": "Qui est responsable si la réponse est fausse et que je l'ai transmise à mon client ?",
+  "habit": "tu es en pleine période de bilans et tes équipes sont saturées"
+ },
+ {
+  "id": "P019",
+  "name": "Tess",
+  "age": 49,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 9767000,
+  "behaviour": "Fait le juridique en interne",
+  "behaviour_how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients.",
+  "objection": "Il vient de prêter serment : quelle expérience a-t-il réellement ?",
+  "habit": "un client t'a posé la semaine dernière une question sur une cession de parts que tu n'as pas su trancher"
+ },
+ {
+  "id": "P020",
+  "name": "Maya",
+  "age": 32,
+  "segment": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+  "income": 12441000,
+  "behaviour": "A déjà un avocat habituel",
+  "behaviour_how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement.",
+  "objection": "60 000 XPF par mois, c'est une charge fixe que je ne sais pas refacturer à mes clients",
+  "habit": "tu es en pleine période de bilans et tes équipes sont saturées"
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ne connais pas ce confrère et personne ne me l'a recommandé ; pour les questions de nos clients, j'appelle déjà un des avocats de Papeete que je connais. Le prix n'est pas le problème pour un cabinet comme le nôtre, c'est la confiance et la proximité.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif, et je n'ai jamais vu son travail : je ne vais pas engager la parole du cabinet auprès de nos clients sur les réponses de quelqu'un que je ne connais pas, ni s'il maîtrise vraiment les spécificités du droit applicable en Polynésie.",
+  "would_change_my_mind": "Qu'un confrère expert-comptable ou un avocat de Papeete en qui j'ai confiance me le recommande, et pouvoir juger sur quelques réponses écrites réelles avant de m'engager.",
+  "price_too_cheap": 20000,
+  "price_cheap": 35000,
+  "price_expensive": 80000,
+  "price_too_expensive": 130000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "On fait le juridique courant nous-mêmes depuis des années ; ma question de cession de parts la semaine dernière, je l'aurais bien posée à quelqu'un, mais pas à 60 000 XPF par mois à un avocat dont je ne connais ni le parcours ni la pratique du droit local. Pour une question ponctuelle, j'appelle un confrère d'ici.",
+  "objection": "Il vient de prêter serment, il est inscrit à Bordeaux : quelle expérience réelle a-t-il des sociétés et des spécificités polynésiennes ? Je ne vais pas engager ma signature auprès de mes clients sur ses réponses sans savoir ce qu'il vaut.",
+  "would_change_my_mind": "Une première question traitée gratuitement ou à l'unité, pour juger la qualité de la réponse écrite, plus la recommandation d'un confrère expert-comptable de la place qui l'utilise déjà.",
+  "price_too_cheap": 15000,
+  "price_cheap": 25000,
+  "price_expensive": 40000,
+  "price_too_expensive": 60000
+}

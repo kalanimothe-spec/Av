@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ne connais pas ce confrère, personne ne me l'a recommandé, et il est inscrit à Bordeaux, pas ici. En pleine période de bilans, je ne vais pas confier les questions de mes clients à quelqu'un dont je n'ai jamais vu le travail.",
+  "objection": "Si sa réponse est fausse et que je l'ai transmise à mon client, c'est mon cabinet qui se retrouve en première ligne. L'offre ne dit rien de sa responsabilité, de son assurance, ni de sa connaissance du droit local polynésien.",
+  "would_change_my_mind": "Une recommandation d'un confrère expert-comptable de Tahiti en qui j'ai confiance, plus un engagement écrit sur sa responsabilité civile professionnelle couvrant les réponses transmises aux clients.",
+  "price_too_cheap": 15000,
+  "price_cheap": 30000,
+  "price_expensive": 60000,
+  "price_too_expensive": 90000
+}

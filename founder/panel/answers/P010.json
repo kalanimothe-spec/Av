@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quand un client a une question juridique, je l'envoie voir un avocat et je ne m'en occupe plus ; je n'ai aucune raison de payer 60 000 XPF par mois pour reprendre ces questions à ma charge, surtout en pleine période de bilans. Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une question simple.",
+  "objection": "Ce n'est pas mon rôle de porter le juridique de mes clients : un abonnement me fait payer quelque chose que j'obtiens déjà gratuitement en orientant le client, et je ne saurais pas le refacturer.",
+  "would_change_my_mind": "Que mes clients me réclament explicitement ce service et acceptent de le payer via ma lettre de mission, ou que mon avocat habituel se mette à facturer chaque question.",
+  "price_too_cheap": 10000,
+  "price_cheap": 20000,
+  "price_expensive": 35000,
+  "price_too_expensive": 50000
+}

@@ -2,19 +2,67 @@
   "business": "MOTHE AVOCAT : abonnement d'appui juridique externalisé pour cabinets d'expertise comptable à Tahiti (avocat établi à Bordeaux, originaire de Polynésie)",
   "target": "Associés ou dirigeants de cabinets d'expertise comptable indépendants, petits ou intermédiaires, à Tahiti, dont les clients sont des entrepreneurs individuels, TPE, PME, sociétés familiales et professions libérales",
   "where": "Papeete et agglomération, Tahiti",
-  "age": [32, 62],
+  "age": [
+    32,
+    62
+  ],
   "segments": [
-    {"name": "Expert-comptable exerçant seul (1 à 4 collaborateurs)", "share": 0.40, "income": [6000000, 12000000]},
-    {"name": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)", "share": 0.40, "income": [9000000, 18000000]},
-    {"name": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)", "share": 0.20, "income": [14000000, 25000000]}
+    {
+      "name": "Expert-comptable exerçant seul (1 à 4 collaborateurs)",
+      "share": 0.4,
+      "income": [
+        6000000,
+        12000000
+      ]
+    },
+    {
+      "name": "Associé d'un petit cabinet (2-3 associés, 5 à 12 collaborateurs)",
+      "share": 0.4,
+      "income": [
+        9000000,
+        18000000
+      ]
+    },
+    {
+      "name": "Associé d'un cabinet intermédiaire ou affilié à un réseau (15 à 40 personnes)",
+      "share": 0.2,
+      "income": [
+        14000000,
+        25000000
+      ]
+    }
   ],
   "behaviours": [
-    {"name": "A déjà un avocat habituel", "share": 0.25, "how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement."},
-    {"name": "Fait le juridique en interne", "share": 0.20, "how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients."},
-    {"name": "Renvoie le client ailleurs", "share": 0.15, "how": "Dit au client d'aller voir un avocat et ne suit pas la suite."},
-    {"name": "Veut développer le conseil", "share": 0.15, "how": "Cherche à mieux accompagner ses clients et à se différencier par le conseil."},
-    {"name": "Surveille les charges fixes", "share": 0.15, "how": "Refuse tout nouvel abonnement qui ne se refacture pas ou ne fait pas gagner un temps mesurable."},
-    {"name": "Méfiant envers les nouveaux venus", "share": 0.10, "how": "Ne travaille qu'avec des gens dont il a vu le travail ou qu'on lui a recommandés."}
+    {
+      "name": "A déjà un avocat habituel",
+      "share": 0.25,
+      "how": "Appelle un avocat de Papeete qu'il connaît quand une question dépasse son cabinet, sans abonnement."
+    },
+    {
+      "name": "Fait le juridique en interne",
+      "share": 0.2,
+      "how": "Son cabinet gère le secrétariat juridique et répond lui-même aux questions courantes des clients."
+    },
+    {
+      "name": "Renvoie le client ailleurs",
+      "share": 0.15,
+      "how": "Dit au client d'aller voir un avocat et ne suit pas la suite."
+    },
+    {
+      "name": "Veut développer le conseil",
+      "share": 0.15,
+      "how": "Cherche à mieux accompagner ses clients et à se différencier par le conseil."
+    },
+    {
+      "name": "Surveille les charges fixes",
+      "share": 0.15,
+      "how": "Refuse tout nouvel abonnement qui ne se refacture pas ou ne fait pas gagner un temps mesurable."
+    },
+    {
+      "name": "Méfiant envers les nouveaux venus",
+      "share": 0.1,
+      "how": "Ne travaille qu'avec des gens dont il a vu le travail ou qu'on lui a recommandés."
+    }
   ],
   "objections": [
     "Mon avocat habituel me répond déjà au cas par cas, souvent sans facturer une simple question",
@@ -31,5 +79,6 @@
     "tu connais personnellement deux ou trois avocats de Papeete",
     "tu reçois souvent des sollicitations commerciales de prestataires métropolitains",
     "tes clients se plaignent du coût des avocats"
-  ]
+  ],
+  "currency": "XPF"
 }

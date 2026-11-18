@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà mon avocat à Papeete que j'appelle quand ça dépasse le cabinet, et je ne paie que quand j'en ai besoin. 60 000 XPF par mois, soit 720 000 par an, pour quelques questions, je ne vois pas l'intérêt de payer un abonnement à quelqu'un que je ne connais pas.",
+  "objection": "Il est inscrit au barreau de Bordeaux : est-ce qu'il maîtrise vraiment les textes polynésiens, le droit fiscal et social local, ou est-ce qu'il va me répondre avec le droit métropolitain ? Et si la réponse est fausse, c'est mon cabinet qui se retrouve exposé devant le client.",
+  "would_change_my_mind": "Un essai gratuit d'un mois avec des réponses écrites qui citent précisément les textes applicables en Polynésie, et des références d'autres cabinets de Tahiti qui l'utilisent.",
+  "price_too_cheap": 10000,
+  "price_cheap": 20000,
+  "price_expensive": 40000,
+  "price_too_expensive": 60000
+}

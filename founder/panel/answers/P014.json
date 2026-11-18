@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mon cabinet traite déjà en interne les questions juridiques courantes de nos clients, avec notre service de secrétariat juridique. Payer 60 000 XPF par mois pour des réponses que nous donnons déjà nous-mêmes, sans pouvoir les refacturer, je ne le vois pas.",
+  "objection": "C'est une charge fixe que je ne sais pas refacturer à des clients qui se plaignent déjà du coût des avocats, et je ne sais pas combien de questions par mois nous enverrions vraiment, ni ce que couvre exactement « usage raisonnable ».",
+  "would_change_my_mind": "Un modèle que je puisse refacturer ou intégrer à mes honoraires : par exemple un forfait à la question ou un carnet de questions prépayé, plutôt qu'un abonnement fixe, avec un premier mois d'essai pour mesurer le volume réel.",
+  "price_too_cheap": 15000,
+  "price_cheap": 25000,
+  "price_expensive": 45000,
+  "price_too_expensive": 70000
+}

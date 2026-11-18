@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "J'ai eu une question sur une cession de parts la semaine dernière, mais c'est une fois de temps en temps, pas tous les mois. Payer 60 000 XPF chaque mois pour ça, c'est une charge fixe que je ne refacture à personne, et je n'y vois pas de gain de temps mesurable.",
+  "objection": "60 000 XPF par mois, c'est 720 000 XPF par an de charge fixe que je ne sais pas refacturer à mes clients, pour un volume de questions que je ne connais pas. Et une réponse sous 2 jours depuis Bordeaux, avec les opérations et les actes exclus, je ne sais pas si ça couvre vraiment ce que mes clients me demandent.",
+  "would_change_my_mind": "Une formule à la question (un prix fixe par réponse écrite, que je peux refacturer au client concerné) plutôt qu'un abonnement mensuel.",
+  "price_too_cheap": 10000,
+  "price_cheap": 20000,
+  "price_expensive": 35000,
+  "price_too_expensive": 50000
+}

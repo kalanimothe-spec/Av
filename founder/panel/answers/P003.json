@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "L'idée colle à ce que je veux faire, développer le conseil, et le prix n'est pas le problème pour un cabinet comme le nôtre. Mais quand un client me pose une question, il veut une réponse dans la journée, au téléphone, pas un e-mail de Bordeaux dans deux jours ouvrés avec 11 heures de décalage.",
+  "objection": "La réactivité : deux jours ouvrés depuis Bordeaux, sans possibilité de s'appeler aux heures de Tahiti, ça ne suit pas le rythme de mes clients. Et je ne connais pas ce confrère, ni sa maîtrise des spécificités du droit local polynésien.",
+  "would_change_my_mind": "Un premier mois d'essai gratuit avec un créneau d'appel garanti aux heures de Tahiti et une réponse sous 24 heures pour les questions simples, pour juger sur pièces.",
+  "price_too_cheap": 15000,
+  "price_cheap": 35000,
+  "price_expensive": 80000,
+  "price_too_expensive": 120000
+}

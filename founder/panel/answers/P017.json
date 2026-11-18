@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "J'ai déjà mon avocat à Papeete que j'appelle quand une question dépasse le cabinet, et souvent il ne me facture même pas une question simple. Payer 60 000 XPF tous les mois pour quelque chose que j'obtiens déjà au cas par cas, je ne vois pas l'intérêt.",
+  "objection": "Un avocat inscrit à Bordeaux, que je ne connais pas, pour des questions de mes clients à Tahiti : je préfère quelqu'un d'ici que je peux appeler et voir, et je ne sais pas combien de questions on poserait vraiment chaque mois.",
+  "would_change_my_mind": "Un mois d'essai gratuit avec des réponses écrites vraiment utilisables sur le droit applicable en Polynésie, plus rapides et plus nettes que ce que j'obtiens au téléphone, et une recommandation d'un confrère expert-comptable de Tahiti.",
+  "price_too_cheap": 10000,
+  "price_cheap": 25000,
+  "price_expensive": 45000,
+  "price_too_expensive": 70000
+}

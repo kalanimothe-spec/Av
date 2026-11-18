@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Quand un client a une question juridique, je l'envoie chez un des avocats de Papeete que je connais et je ne m'en occupe plus. Payer 60 000 XPF par mois pour devenir moi-même l'intermédiaire, ce n'est pas mon métier ni ma façon de faire.",
+  "objection": "Un avocat à Bordeaux avec 11 heures de décalage, ce n'est pas assez réactif, et mes confrères de Papeete connaissent le droit local et sont à dix minutes.",
+  "would_change_my_mind": "Que plusieurs confrères expert-comptables de la place me disent que ça leur fait gagner du temps et que les réponses tiennent compte des spécificités du droit polynésien.",
+  "price_too_cheap": 10000,
+  "price_cheap": 20000,
+  "price_expensive": 35000,
+  "price_too_expensive": 50000
+}

@@ -161,7 +161,7 @@ def load_state(d):
 BRIEF = """You are a simulated buyer on a consumer panel. A founder wants to know, before spending any money, whether real people like you would buy. Your answer is only useful if it is honest: most people do not buy most things, and a polite yes is worse than a clear no.
 
 === WHO YOU ARE ===
-{name}, {age}. {segment}. You earn about ${income:,} a year.
+{name}, {age}. {segment}. You earn about {income:,} {currency} a year (personal income).
 How you buy: {behaviour}. {behaviour_how}
 {habit_line}The first thing that comes to mind when you hear an offer like this: "{objection}"
 You are one of these people: {target}.
@@ -171,7 +171,7 @@ You are one of these people: {target}.
 {pitch}
 === END ===
 
-Decide as {name} would, with {name}'s money, habits and doubts, in a normal week. Do not be agreeable. Do not invent facts about the business beyond what is written above.
+Decide as {name} would, with {name}'s money, habits and doubts, in a normal week. Do not be agreeable. Do not invent facts about the business beyond what is written above. Write the text fields in the language of the offer, and give prices in the currency and unit used in the offer.
 
 Create the file {out} with your file-writing tool (do not just print the answer in your reply) containing ONLY this JSON, no markdown fence, nothing else:
 {{
@@ -200,7 +200,7 @@ def write_briefs(d, wave=WAVE):
             continue
         brief = BRIEF.format(pitch=state["pitch"], target=target, out=os.path.abspath(out),
                              habit_line=("Your day: %s.\n" % c["habit"]) if c.get("habit") else "",
-                             reasons=" / ".join(REASONS), **c)
+                             reasons=" / ".join(REASONS), currency=state["customer"].get("currency", "USD"), **c)
         bp = _path(d, "briefs", c["id"] + ".md")
         with open(bp, "w", encoding="utf-8") as fh:
             fh.write(brief)

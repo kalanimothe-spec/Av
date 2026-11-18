@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "L'idée m'intéresse pour développer le conseil, mais l'offre ne dit pas qui porte la responsabilité si la réponse est fausse et que je l'ai transmise à mon client. Et en pleine période de bilans, je ne vais pas prendre 60 000 XPF par mois sans savoir combien de questions je pourrai vraiment poser.",
+  "objection": "Qui est responsable si la réponse est fausse ? Je veux que la réponse soit signée par l'avocat, couverte par son assurance responsabilité civile professionnelle, et qu'il puisse s'adresser directement à mon client si besoin. Et 'usage raisonnable', ça ne veut rien dire tant qu'on ne me donne pas un nombre de questions.",
+  "would_change_my_mind": "Un engagement écrit que l'avocat assume la responsabilité de ses réponses sous son assurance RCP, avec un nombre de questions clairement inclus par mois et un premier mois d'essai à prix réduit après la saison des bilans.",
+  "price_too_cheap": 15000,
+  "price_cheap": 30000,
+  "price_expensive": 50000,
+  "price_too_expensive": 80000
+}
